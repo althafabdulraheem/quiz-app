@@ -1,0 +1,31 @@
+body{
+    background-color: #c7cfcf99;
+}
+
+.form-wrapper
+{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.nxt-btn{
+    float: right;
+    padding: 10px;
+    background: antiquewhite;
+}
+
+.cf-btn,.chng-btn{
+    padding: 10px;
+    background: #c1dda1;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+
+}
+
+.card-wrapper{
+    display:flex;
+    justify-content: center;
+}
